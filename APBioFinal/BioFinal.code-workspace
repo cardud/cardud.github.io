@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Ethereal",
+			"path": "."
+		},
+		{
+			"name": "BioFinal",
+			"path": "../../Downloads/BioFinal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ethereal"
+	}
+}
