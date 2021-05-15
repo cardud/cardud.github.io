@@ -255,13 +255,12 @@ margin-left: 100%;
 #labels{
 margin-left: 100%;
 	position: absolute;
-	height: 270px;
 	
 }
 #church{
 	margin-left: 100%;
 		position: absolute;
-		height: 350px;
+		height: 300px;
 		
 	}
 	#soldeirs{
@@ -270,9 +269,3 @@ margin-left: 100%;
 			
 			
 		}
-		#mouse{
-			margin-left: 100%;
-				position: absolute;
-				
-				
-			}
