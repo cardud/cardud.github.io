@@ -255,6 +255,8 @@ margin-left: 100%;
 #labels{
 margin-left: 100%;
 	position: absolute;
+	height: 220px;
+	width :400ps;
 	
 }
 #church{
@@ -269,3 +271,10 @@ margin-left: 100%;
 			
 			
 		}
+
+		#mouse{
+			margin-left: 100%;
+				position: absolute;
+				
+				
+			}
